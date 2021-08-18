@@ -1,6 +1,6 @@
 # boost-asio-ip_filtering
 
-This example shows how to do ip filtering with Boost.asio, Qt frameworkand XML file
+This example shows how to do ip filtering with Boost.asio, Qt framework and XML file
 
 Build options :
 
